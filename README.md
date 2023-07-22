@@ -38,4 +38,4 @@ In this page users can manage their cart (update quantity of the product or remo
 - Back-end: MVC, JDBC, Java, JSP/Servlet, Apache Tomcat 9.0.7.
 Database: SQL server.
 
-![Database](/pages_screen_shot/Database.png "Database")
+![Database](/pages_screenshot/Database.png "Database")
